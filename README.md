@@ -1,6 +1,8 @@
 # Stellar League
 ### by presh (Prashant Naidu)
 
+![itch banner](https://github.com/user-attachments/assets/94e124a3-4e3f-4c93-a83f-5057c64bb95b)
+
 #### A sandbox Unity project that implements Rocket League esque aerial mechanics to a space vehicle in space.
 
 I'm hoping for folks to use this as a playground to experiment with their own ideas. I've always thought bringing Rocket League aerial mechanics out of the context of Rocket League would be interesting to tackle. Let's see what happens!
